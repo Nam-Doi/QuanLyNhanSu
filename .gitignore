@@ -1,0 +1,6 @@
+ .vs/
+packages/
+desktop.ini
+bin/
+obj/
+*.log
